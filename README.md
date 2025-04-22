@@ -206,5 +206,3 @@ This project is open-source and available for use and modification under the [MI
 
 ---
 
-> Real-time metrics, zero bloat. Monitor smart, not hard.
-```
